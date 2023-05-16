@@ -17,12 +17,10 @@
     "extensions/*"
   ],
   "scripts": {
-    "dev": "evershop dev",
-    "setup": "evershop install",
+    "setup": "evershop setup",
     "build": "evershop build",
     "start": "evershop start",
-    "test": "jest --workspace=@evershop/evershop",
-    "cypress": "cypress run"
+    "dev": "evershop dev"
   },
   "author": "The Nguyen (https://evershop.io)",
   "license": "GNU GENERAL PUBLIC LICENSE 3.0",
@@ -48,8 +46,9 @@
     "webpack-bundle-analyzer": "^4.5.0"
   },
   "dependencies": {
-    "@evershop/evershop": "^1.0.0-beta",
+    "@evershop/evershop": "^1.0.0-rc.3",
     "babel-plugin-fast-async": "^6.1.2",
+    "pg": "^8.11.0",
     "regenerator-runtime": "^0.13.9",
     "supertest": "^6.2.2"
   }
