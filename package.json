@@ -17,9 +17,9 @@
     "extensions/*"
   ],
   "scripts": {
-    "setup": "evershop setup",
+    "setup": "evershop install",
     "build": "evershop build",
-    "start": "evershop start",
+    "start": "evershop dev",
     "dev": "evershop dev"
   },
   "author": "The Nguyen (https://evershop.io)",

@@ -46,7 +46,7 @@ export default function LoginForm({ authUrl, dashboardUrl }) {
           name="password"
           type="password"
           label="Password"
-          placeholder="Password"
+          placeholder="Şifre"
           validationRules={['notEmpty']}
         />
         <div className="form-submit-button flex border-t border-divider mt-1 pt-1">

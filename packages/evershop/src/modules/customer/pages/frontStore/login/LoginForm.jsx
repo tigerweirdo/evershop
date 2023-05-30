@@ -38,7 +38,7 @@ export default function LoginForm({ action, homeUrl, registerUrl }) {
           <Field
             name="password"
             type="password"
-            placeholder={_('Password')}
+            placeholder={_('Şifre')}
             validationRules={['notEmpty']}
           />
           <div className="form-submit-button flex border-t border-divider mt-1 pt-1">

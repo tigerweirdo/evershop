@@ -163,6 +163,7 @@ export default function ProductForm({ product, action }) {
       setError(response.message);
     }
   };
+  console.log(product.sku);
 
   return (
     <Form

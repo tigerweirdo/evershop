@@ -9,43 +9,43 @@ export default function FeaturedCategories() {
           <div className="text-center">
             <img src="/assets/homepage/banner/men-shoes.jpeg" alt="" />
           </div>
-          <h3 className="h4 uppercase mt-1 mb-1">Men shoes collection</h3>
+          <h3 className="h4  mt-1 mb-1">Fıstık Ezmesi Çesitleri</h3>
           <div className="mb-1">
             <p>
-              Constructed from luxury nylons, leathers, and custom hardware,
-              featuring sport details such as hidden breathing vents, waterproof
-              + antimicrobial linings, and more.
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
+            incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
+            quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
             </p>
           </div>
-          <Button url="/category/kids" title="Shop kids" variant="primary" />
+          <Button url="/category" title="Fıstık Ezmesi" variant="primary" />
         </div>
         <div>
           <div>
             <img src="/assets/homepage/banner/women-shoes.jpeg" alt="" />
           </div>
-          <h3 className="h4 uppercase mt-1 mb-1">Women shoes collection</h3>
+          <h3 className="h4  mt-1 mb-1">Fındık Ezmesi Çesitleri</h3>
           <div className="mb-1">
             <p>
-              Constructed from luxury nylons, leathers, and custom hardware,
-              featuring sport details such as hidden breathing vents, waterproof
-              + antimicrobial linings, and more.
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
+            incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
+            quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
             </p>
           </div>
-          <Button url="/category/women" title="Shop women" variant="primary" />
+          <Button url="/category" title="Fındık Ezmesi" variant="primary" />
         </div>
         <div>
           <div>
             <img src="/assets/homepage/banner/kid-shoes.jpeg" alt="" />
           </div>
-          <h3 className="h4 uppercase mt-1 mb-1">Men shoes collection</h3>
+          <h3 className="h4 mt-1 mb-1">Diğer Çeşitler</h3>
           <div className="mb-1">
             <p>
-              Constructed from luxury nylons, leathers, and custom hardware,
-              featuring sport details such as hidden breathing vents, waterproof
-              + antimicrobial linings, and more.
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
+            incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
+            quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
             </p>
           </div>
-          <Button url="/category/men" title="Shop men" variant="primary" />
+          <Button url="/category" title="Tahin" variant="primary" />
         </div>
       </div>
     </div>
